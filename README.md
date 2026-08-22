@@ -34,10 +34,4 @@ Lifetime learner — suka belajar hal baru dengan cara langsung membangunnya, la
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityadenny&show_icons=true&theme=default&hide_border=true)
-
----
-
 <sub>Hakuna Matata 🦁</sub>
