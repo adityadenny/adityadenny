@@ -1,17 +1,5 @@
 ### Hi there 👋, I'm Denny
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadenny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private" />
-</p>
-
-<div align="center">
-
-📫 Reach me via: [GitHub](https://github.com/adityadenny) · [Telegram](https://t.me/awas_gempa_bot) · [Email](mailto:adity.denny@gmail.com)
-
-</div>
-
----
-
 ## About Me
 
 I build things that work, then document how I built them. Currently focused on web development, AI-assisted tooling, and keeping servers running.
@@ -65,6 +53,18 @@ Managed the full stack of infrastructure and applications across 3 production VP
 Thanks for stopping by! If you find my projects useful, feel free to fork them or open an issue. 🙏
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadenny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private" />
+</p>
+
+<div align="center">
+
+📫 Reach me via: [GitHub](https://github.com/adityadenny) · [Telegram](https://t.me/awas_gempa_bot) · [Email](mailto:adity.denny@gmail.com)
+
+</div>
+
+---
 
 <br>
 </sub>Hakuna Matata 🦁</sub>
