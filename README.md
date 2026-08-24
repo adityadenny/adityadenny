@@ -71,17 +71,5 @@ Thanks for stopping by! If you find my projects useful, feel free to fork them o
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadenny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private" />
-</p>
-
-<div align="center">
-
-📫 Reach me via: [GitHub](https://github.com/adityadenny) · [Telegram](https://t.me/awas_gempa_bot) · [Email](mailto:adity.denny@gmail.com)
-
-</div>
-
----
-
 <br>
 </sub>Hakuna Matata 🦁</sub>
