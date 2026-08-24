@@ -63,3 +63,24 @@ Thanks for stopping by! If you find my projects useful, feel free to fork them o
 
 <br>
 </sub>Hakuna Matata 🦁</sub>
+### Hi there 👋, I'm Denny
+
+**Full-Stack Developer · IT Infrastructure Engineer · AI Automation Builder**
+
+I build full-stack web apps, design scalable infrastructure, and automate workflows with AI. From frontend interfaces to backend systems, database optimization to production deployment — I handle the whole pipeline end-to-end.
+
+### ⌨️ Languages & Scripting
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=shell)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+### 🖥️ Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+
+### 💾 Database & Storage
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![AWS S3](https://img.shields.io/badge/-AWSS3-569A31?style=flat-square&logo=amazonaws)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+
