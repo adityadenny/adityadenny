@@ -29,12 +29,37 @@ I build full-stack web apps, design scalable infrastructure, and automate workfl
 
 ## Featured Projects
 
+### ⭐ Job Scout AU/NZ — Production AI-Assisted Job Discovery & Screening Pipeline
+
+**v1.0.0 · private repo · LIVE** — [@Aus_nz_jobs_notify_bot](https://t.me/Aus_nz_jobs_notify_bot), runs automatically 2× daily on a production VPS as a least-privilege service.
+
+Not a scraper — an end-to-end **ETL + AI screening pipeline** that turns raw job listings from multiple ATS platforms into a handful of qualified, evidence-scored opportunities delivered to Telegram:
+
+```text
+ATS APIs (Greenhouse/Lever/Ashby) → Normalizer (ETL) → Fingerprint dedup →
+Rule engine (deterministic, no AI) → Top-5 role prefilter → DeepSeek multi-role
+screening → Deterministic scoring → Notification gate → Telegram (dedup-safe)
+```
+
+**Engineering actually practiced:**
+
+- **Python ETL pipeline** — normalizes 3 different ATS API formats (Greenhouse/Lever/Ashby, official APIs, no ToS-violating scraping) into one internal schema; SHA-256 fingerprinting for idempotent dedup (120 jobs run 1 → 0 new on run 2)
+- **Deterministic rule engine** — weighted keyword scoring in JSON config, filters 120 jobs → 14 without spending a single AI token; 20 career role profiles are config-driven (add a role = edit JSON, no code change)
+- **LLM integration done right** — DeepSeek V4 Flash, JSON mode, `temperature=0`, evidence-based assessment (visa status must cite evidence: CONFIRMED/POSSIBLE/UNKNOWN/NO, never invented); AI is the *judge*, Python computes the final score (35% technical / 25% career / 20% location / 20% visa)
+- **Token & cost optimization** — top-5 role prefilter solved prompt truncation (was 5/14 failing at 4096 tokens → 14/14 clean at 2048); AI result cache by description hash → reruns cost **0 API calls, 0 tokens**
+- **Policy layer** — Notification Gate V1 separates scoring from decision (APPLY ≥75, MAYBE ≥60); once sent, `notified=1` so nothing is ever delivered twice
+- **Production hardening** — cron + flock anti-overlap, per-stage timeouts, exponential backoff retry (no job ever lost), bounded logs, dedicated non-root user, no ports opened, isolated directory, secrets in 600-perm env file
+- **Testing** — 167 unit + integration + regression tests (all mocked)
+
+**Stack:** `Python` `SQLite` `DeepSeek` `ATS APIs` `Telegram Bot API` `cron` `Linux`
+
+---
+
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | **[LMS Platform](https://github.com/adityadenny/readme)** *(internal)* | Production learning management system with auth/RBAC, H5P interactive content, video streaming, certificate generation, Google Drive backup | `NestJS` `React 19` `Prisma` `MySQL` `Redis/BullMQ` `Docker` `Tailwind CSS v4` |
 | **[VidKupas](https://github.com/adityadenny/vidkupas)** | Offline video/audio transcription and AI summarizer with progress tracking and auto-generated subtitles | `Python` `FastAPI` `OpenAI Whisper` |
 | **[Earthquake Bot](https://github.com/adityadenny/latest-indonesia-earthquake)** | Real-time earthquake alert bot using official BMKG data. Runs free on edge cloud. Try it: [@awas_gempa_bot](https://t.me/awas_gempa_bot) ⭐1 | `TypeScript` `Cloudflare Workers` `Telegram Bot API` |
-| **Job Scout AU/NZ** *(private repo)* | Production AI-assisted job discovery & screening pipeline: collects from ATS APIs (Greenhouse/Lever/Ashby), fingerprint dedup, deterministic rule engine, DeepSeek multi-role screening with AI cache, deterministic scoring + notification gate. Runs 2× daily on production VPS as least-privilege service. 167 tests. Live: [@Aus_nz_jobs_notify_bot](https://t.me/Aus_nz_jobs_notify_bot) | `Python` `SQLite` `DeepSeek` `ATS APIs` `Telegram Bot API` `Linux` `cron` |
 | **[LinkLeads](https://github.com/adityadenny/linkleads)** | Concurrent web scraper that extracts emails, phone numbers, and social links from websites | `Python` `BeautifulSoup` `ThreadPoolExecutor` |
 | **[Satu Lagi Boss](https://github.com/adityadenny/satu-lagi-boss)** | Modern frontend app built with SvelteKit | `Svelte` `SvelteKit` `Vite` |
 | **[Tenang Ada Gue](https://github.com/adityadenny/tenang-ada-gue)** | Campaign site migrated from WordPress to Jamstack/Astro. Zero-server deployment on edge. | `Astro` `Three.js` `GSAP` `Cloudflare Workers` |
