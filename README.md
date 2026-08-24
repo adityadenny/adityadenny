@@ -34,6 +34,7 @@ I build full-stack web apps, design scalable infrastructure, and automate workfl
 | **[LMS Platform](https://github.com/adityadenny/readme)** *(internal)* | Production learning management system with auth/RBAC, H5P interactive content, video streaming, certificate generation, Google Drive backup | `NestJS` `React 19` `Prisma` `MySQL` `Redis/BullMQ` `Docker` `Tailwind CSS v4` |
 | **[VidKupas](https://github.com/adityadenny/vidkupas)** | Offline video/audio transcription and AI summarizer with progress tracking and auto-generated subtitles | `Python` `FastAPI` `OpenAI Whisper` |
 | **[Earthquake Bot](https://github.com/adityadenny/latest-indonesia-earthquake)** | Real-time earthquake alert bot using official BMKG data. Runs free on edge cloud. Try it: [@awas_gempa_bot](https://t.me/awas_gempa_bot) ⭐1 | `TypeScript` `Cloudflare Workers` `Telegram Bot API` |
+| **Job Scout AU/NZ** *(private repo)* | Production AI-assisted job discovery & screening pipeline: collects from ATS APIs (Greenhouse/Lever/Ashby), fingerprint dedup, deterministic rule engine, DeepSeek multi-role screening with AI cache, deterministic scoring + notification gate. Runs 2× daily on production VPS as least-privilege service. 167 tests. Live: [@Aus_nz_jobs_notify_bot](https://t.me/Aus_nz_jobs_notify_bot) | `Python` `SQLite` `DeepSeek` `ATS APIs` `Telegram Bot API` `Linux` `cron` |
 | **[LinkLeads](https://github.com/adityadenny/linkleads)** | Concurrent web scraper that extracts emails, phone numbers, and social links from websites | `Python` `BeautifulSoup` `ThreadPoolExecutor` |
 | **[Satu Lagi Boss](https://github.com/adityadenny/satu-lagi-boss)** | Modern frontend app built with SvelteKit | `Svelte` `SvelteKit` `Vite` |
 | **[Tenang Ada Gue](https://github.com/adityadenny/tenang-ada-gue)** | Campaign site migrated from WordPress to Jamstack/Astro. Zero-server deployment on edge. | `Astro` `Three.js` `GSAP` `Cloudflare Workers` |
@@ -52,6 +53,7 @@ Managed the full stack of infrastructure and applications across 3 production VP
 - Built tiered backup systems with rclone + Google Shared Drive (30/180 day retention), Telegram notifications on success or failure
 - Handled repeated production incidents including chronic disk full issues through data-driven root cause analysis and mass in-place compression without breaking database references
 - Full development lifecycle for production apps including LMS, automation bots, and campaign sites
+- Deployed production automation as least-privilege Linux services: cron scheduling, flock concurrency control, retry/backoff, idempotent pipelines, AI API integration with caching and deterministic post-processing
 - Firewall management, TLS hardening, vulnerability audits, network reconnaissance
 - Wrote standardized runbooks, postmortems, and operational documentation
 
