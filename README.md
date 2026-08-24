@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Denny
 
-## About Me
+**Full-Stack Developer · IT Infrastructure Engineer · AI Automation Builder**
 
 I build things that work, then document how I built them. Currently focused on web development, AI-assisted tooling, and keeping servers running.
 
@@ -8,30 +8,13 @@ I build things that work, then document how I built them. Currently focused on w
 
 ## Tech Stack
 
-<table><tbody><tr>
-<td width="50%" valign="top"><h4>⌨️ Languages & Scripting</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,sql,bash&theme=dark" alt="Languages" style="display:inline-block;"><br>
-<code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>PHP</code> <code>SQL</code> <code>Bash</code>
-</td>
-<td width="50%" valign="top"><h4>🎨 Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,next,vue,svelte,astro,tailwind&theme=dark" alt="Frontend" style="display:inline-block;"><br>
-<code>React</code> <code>Next.js</code> <code>Vue/Nuxt</code> <code>Svelte</code> <code>Astro</code> <code>Tailwind CSS</code>
-</td>
-</tr><tr>
-<td width="50%" valign="top"><h4>🖥️ Backend</h4>
-<img src="https://skillicons.dev/icons?i=nest,fastapi,nodejs,express,prisma&theme=dark" alt="Backend" style="display:inline-block;"><br>
-<code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>Prisma ORM</code>
-</td>
-<td width="50%" valign="top"><h4>💾 Database & Storage</h4>
-<img src="https://skillicons.dev/icons?i=mysql,redis,s3&theme=dark" alt="Database" style="display:inline-block;"><br>
-<code>MySQL</code> <code>Redis</code> <code>AWS S3</code>
-</td>
-</tr><tr>
-<td colspan="2" valign="top"><h4>☁️ DevOps & Tools</h4>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,cloudflare,vite,vscode&theme=dark" alt="DevOps" style="display:inline-block;"><br>
-<code>Docker</code> <code>Linux/Ubuntu</code> <code>Nginx</code> <code>Git</code> <code>Cloudflare Workers</code> <code>Vite</code> <code>VS Code</code>
-</td>
-</tr></tbody></table>
+| | |
+|:---|:---|
+| ⌨️ **Languages & Scripting** | ![JS](https://skillicons.dev/icons?i=js&theme=dark) JavaScript · ![TS](https://skillicons.dev/icons?i=ts&theme=dark) TypeScript · ![Python](https://skillicons.dev/icons?i=py&theme=dark) Python · ![PHP](https://skillicons.dev/icons?i=php&theme=dark) PHP · SQL · Bash |
+| 🎨 **Frontend** | ![React](https://skillicons.dev/icons?i=react&theme=dark) React · ![Next](https://skillicons.dev/icons?i=next&theme=dark) Next.js · ![Vue](https://skillicons.dev/icons?i=vue&theme=dark) Vue/Nuxt · ![Svelte](https://skillicons.dev/icons?i=svelte&theme=dark) Svelte · ![Astro](https://skillicons.dev/icons?i=astro&theme=dark) Astro · ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) Tailwind CSS |
+| 🖥️ **Backend** | ![NestJS](https://skillicons.dev/icons?i=nest&theme=dark) NestJS · ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) FastAPI · ![Node](https://skillicons.dev/icons?i=nodejs&theme=dark) Node.js · Express · Prisma ORM |
+| 💾 **Database & Storage** | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) MySQL · ![Redis](https://skillicons.dev/icons?i=redis&theme=dark) Redis · AWS S3 |
+| ☁️ **DevOps & Tools** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) Docker · ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) Linux · ![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark) Nginx · ![Git](https://skillicons.dev/icons?i=git&theme=dark) Git · ![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark) Cloudflare Workers · Vite · VS Code |
 
 ---
 
