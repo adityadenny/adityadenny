@@ -6,23 +6,22 @@ I build full-stack web apps, design scalable infrastructure, and automate workfl
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=server,nodejs,python,docker,terminal&theme=dark" style="vertical-align: middle; margin-right: 8px;"> Tech Stack
+## Tech Stack
 
-<table><tbody><tr>
-<td width="30%" valign="top">⌨️ **Languages & Scripting**</td>
-<td width="70%" valign="top"><img src="https://skillicons.dev/icons?i=js,ts,py,php,sql,bash&theme=dark" style="margin-right:8px;"><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>PHP</code> <code>SQL</code> <code>Bash</code></td>
-</tr><tr>
-<td width="30%" valign="top">🎨 **Frontend**</td>
-<td width="70%" valign="top"><img src="https://skillicons.dev/icons?i=react,next,vue,svelte,astro,tailwind&theme=dark" style="margin-right:8px;"><code>React</code> <code>Next.js</code> <code>Vue/Nuxt</code> <code>Svelte</code> <code>Astro</code> <code>Tailwind CSS</code></td>
-</tr><tr>
-<td width="30%" valign="top">🖥️ **Backend**</td>
-<td width="70%" valign="top"><img src="https://skillicons.dev/icons?i=nest,fastapi,nodejs,express,prisma&theme=dark" style="margin-right:8px;"><code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>Prisma ORM</code></td>
-</tr><tr>
-<td width="30%" valign="top">💾 **Database & Storage**</td>
-<td width="70%" valign="top"><img src="https://skillicons.dev/icons?i=mysql,redis,s3&theme=dark" style="margin-right:8px;"><code>MySQL</code> <code>Redis</code> <code>AWS S3</code></td>
-</tr><tr>
-<td colspan="2" valign="top">☁️ **DevOps & Tools**<br><img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,cloudflare,vite,vscode&theme=dark" style="margin-right:8px;"><code>Docker</code> <code>Linux/Ubuntu</code> <code>Nginx</code> <code>Git</code> <code>Cloudflare Workers</code> <code>Vite</code> <code>VS Code</code></td>
-</tr></tbody></table>
+### ⌨️ Languages & Scripting
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=shell)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+### 🖥️ Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+
+### 💾 Database & Storage
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![AWS S3](https://img.shields.io/badge/-AWSS3-569A31?style=flat-square&logo=amazonaws)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
 ---
 
