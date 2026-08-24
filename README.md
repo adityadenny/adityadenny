@@ -8,13 +8,30 @@ I build things that work, then document how I built them. Currently focused on w
 
 ## Tech Stack
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | ![JS](https://skillicons.dev/icons?i=js) JavaScript · ![TS](https://skillicons.dev/icons?i=ts) TypeScript · ![Python](https://skillicons.dev/icons?i=py) Python · ![PHP](https://skillicons.dev/icons?i=php) PHP · ![SQL](https://skillicons.dev/icons?i=sql) SQL · ![Bash](https://skillicons.dev/icons?i=bash) Bash |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) React · ![Next](https://skillicons.dev/icons?i=next) Next.js · ![Vue](https://skillicons.dev/icons?i=vue) Vue/Nuxt · ![Svelte](https://skillicons.dev/icons?i=svelte) Svelte · ![Astro](https://skillicons.dev/icons?i=astro) Astro · ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS |
-| **Backend** | ![Nest](https://skillicons.dev/icons?i=nest) NestJS · ![FastAPI](https://skillicons.dev/icons?i=fastapi) FastAPI · ![Node](https://skillicons.dev/icons?i=nodejs) Node.js · ![Express](https://skillicons.dev/icons?i=express) Express · ![Prisma](https://skillicons.dev/icons?i=prisma) Prisma ORM |
-| **Database** | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL · ![Redis](https://skillicons.dev/icons?i=redis) Redis · ![S3](https://skillicons.dev/icons?i=s3) AWS S3 |
-| **DevOps** | ![Docker](https://skillicons.dev/icons?i=docker) Docker · ![Linux](https://skillicons.dev/icons?i=linux) Linux · ![Nginx](https://skillicons.dev/icons?i=nginx) Nginx · ![Git](https://skillicons.dev/icons?i=git) Git · ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) Cloudflare · ![Vite](https://skillicons.dev/icons?i=vite) Vite · ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
+<table><tbody><tr>
+<td width="50%" valign="top"><h4>⌨️ Languages & Scripting</h4>
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,sql,bash&theme=dark" alt="Languages" style="display:inline-block;"><br>
+<code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>PHP</code> <code>SQL</code> <code>Bash</code>
+</td>
+<td width="50%" valign="top"><h4>🎨 Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,next,vue,svelte,astro,tailwind&theme=dark" alt="Frontend" style="display:inline-block;"><br>
+<code>React</code> <code>Next.js</code> <code>Vue/Nuxt</code> <code>Svelte</code> <code>Astro</code> <code>Tailwind CSS</code>
+</td>
+</tr><tr>
+<td width="50%" valign="top"><h4>🖥️ Backend</h4>
+<img src="https://skillicons.dev/icons?i=nest,fastapi,nodejs,express,prisma&theme=dark" alt="Backend" style="display:inline-block;"><br>
+<code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>Prisma ORM</code>
+</td>
+<td width="50%" valign="top"><h4>💾 Database & Storage</h4>
+<img src="https://skillicons.dev/icons?i=mysql,redis,s3&theme=dark" alt="Database" style="display:inline-block;"><br>
+<code>MySQL</code> <code>Redis</code> <code>AWS S3</code>
+</td>
+</tr><tr>
+<td colspan="2" valign="top"><h4>☁️ DevOps & Tools</h4>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,cloudflare,vite,vscode&theme=dark" alt="DevOps" style="display:inline-block;"><br>
+<code>Docker</code> <code>Linux/Ubuntu</code> <code>Nginx</code> <code>Git</code> <code>Cloudflare Workers</code> <code>Vite</code> <code>VS Code</code>
+</td>
+</tr></tbody></table>
 
 ---
 
